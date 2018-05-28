@@ -1,0 +1,15 @@
+{
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "test*.py"
+    ],
+    "python.unitTest.unittestEnabled": true,
+    "files.associations": {
+        "stdint.h": "c",
+        "ipc_protocol.h": "c",
+        "stdbool.h": "c"
+    }
+}
